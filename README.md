@@ -1,8 +1,8 @@
 # JavaScriptBasicProject
 
-![Screenshot 2022-10-18 at 11 52 55 AM](https://user-images.githubusercontent.com/63157871/196351617-0a93586e-![Screenshot 2022-10-18 at 11 52 31 AM](https://user-images.githubusercontent.com/63157871/196351637-414173ae-bb27-4e10-8299-a9ec4b8d5bef.png)
-d3d5-4bbf-bf94-f22246108efe.png)![Screenshot 2022-10-18 at 11 52 02 AM](https://user-images.githubusercontent.com/63157871/196351659-f4bc2f15-37ac-4947-8bd2-251d3ad69d1b.png)
-
+![Screenshot 2022-10-18 at 11 52 02 AM](https://user-images.githubusercontent.com/63157871/196351794-5e8f8270-2dd7-4e4d-91d9-6f6196034853.png)
+![Screenshot 2022-10-18 at 11 52 31 AM](https://user-images.githubusercontent.com/63157871/196351799-0d48a567-8714-46d6-aa7f-482fa46684fc.png)
+![Screenshot 2022-10-18 at 11 52 55 AM](https://user-images.githubusercontent.com/63157871/196351800-2a7f196e-3856-4adb-aa6d-273b8ef757ef.png)
 
 
 Link to project :- [Link]( https://rahulsaraf1578.github.io/JavaScriptBasicProject/)
